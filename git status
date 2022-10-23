@@ -1,0 +1,69 @@
+[33mcommit 4cb1411de89341b45146867a6576c1870f447edf[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: kostrpetrob <kitasy1000@gmail.com>
+Date:   Sun Oct 23 18:13:46 2022 +0300
+
+    First commit, empty project and .gitignore
+
+.gitignore
+Assets/.gitignore
+Assets/Scenes.meta
+Assets/Scenes/AnimationStateController.cs
+Assets/Scenes/AnimationStateController.cs.meta
+Assets/Scenes/Material Base Color.png
+Assets/Scenes/Material Base Color.png.meta
+Assets/Scenes/Materials.meta
+Assets/Scenes/Materials/Hip Hop Dancing.fbx
+Assets/Scenes/Materials/Hip Hop Dancing.fbx.meta
+Assets/Scenes/Materials/Material Base Color.mat
+Assets/Scenes/Materials/Material Base Color.mat.meta
+Assets/Scenes/Materials/adolf-hitler-lider-del-partido-nazi-aleman-retrato-de-b-von-jacobs-1933_f8949bcd_800x1120.mat
+Assets/Scenes/Materials/adolf-hitler-lider-del-partido-nazi-aleman-retrato-de-b-von-jacobs-1933_f8949bcd_800x1120.mat.meta
+Assets/Scenes/New Material.mat
+Assets/Scenes/New Material.mat.meta
+Assets/Scenes/SampleScene.unity
+Assets/Scenes/SampleScene.unity.meta
+Assets/Scenes/adolf-hitler-lider-del-partido-nazi-aleman-retrato-de-b-von-jacobs-1933_f8949bcd_800x1120.jpg
+Assets/Scenes/adolf-hitler-lider-del-partido-nazi-aleman-retrato-de-b-von-jacobs-1933_f8949bcd_800x1120.jpg.meta
+Assets/Scenes/animator.controller
+Assets/Scenes/animator.controller.meta
+Assets/Scenes/asd
+Assets/Scenes/asd.meta
+Assets/Scenes/char_rig.fbx
+Assets/Scenes/char_rig.fbx.meta
+Assets/Scenes/dolfy.fbx
+Assets/Scenes/dolfy.fbx.meta
+Assets/Scenes/hohli.cs
+Assets/Scenes/hohli.cs.meta
+Assets/Scenes/idle.anim
+Assets/Scenes/idle.anim.meta
+Assets/Scenes/mixamocom.anim
+Assets/Scenes/mixamocom.anim.meta
+Assets/Scenes/run.anim
+Assets/Scenes/run.anim.meta
+Packages/manifest.json
+Packages/packages-lock.json
+ProjectSettings/AudioManager.asset
+ProjectSettings/ClusterInputManager.asset
+ProjectSettings/DynamicsManager.asset
+ProjectSettings/EditorBuildSettings.asset
+ProjectSettings/EditorSettings.asset
+ProjectSettings/GraphicsSettings.asset
+ProjectSettings/InputManager.asset
+ProjectSettings/MemorySettings.asset
+ProjectSettings/NavMeshAreas.asset
+ProjectSettings/PackageManagerSettings.asset
+ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json
+ProjectSettings/Physics2DSettings.asset
+ProjectSettings/PresetManager.asset
+ProjectSettings/ProjectSettings.asset
+ProjectSettings/ProjectVersion.txt
+ProjectSettings/QualitySettings.asset
+ProjectSettings/SceneTemplateSettings.json
+ProjectSettings/TagManager.asset
+ProjectSettings/TimeManager.asset
+ProjectSettings/TimelineSettings.asset
+ProjectSettings/UnityConnectSettings.asset
+ProjectSettings/VFXManager.asset
+ProjectSettings/VersionControlSettings.asset
+ProjectSettings/XRSettings.asset
+ProjectSettings/boot.config
